@@ -11,5 +11,5 @@
 2. 客观讨论事实  
 3. 使用```pull request``` 把事件提交上来。  
 4. 尽量使用github小号进行pr，不怕打击报复的可以用主号。建议用  https://protonmail.com/  匿名邮箱注册~
-5. 不会git pull 的同学发到邮箱  `test8889@protonmail.com`
+5. 不会git pull 的同学发到邮箱  `test8889@tutamail.com` `test8889@protonmail.com`
 ```ohter 待定```
